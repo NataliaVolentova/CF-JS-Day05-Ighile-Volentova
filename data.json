@@ -1,0 +1,36 @@
+/*var data = `
+	[
+		{
+			"id":"1",
+			"name":"Serri",
+			"age":"30",
+			"image":"https://as.ftcdn.net/r/v1/pics/3401cab6595c62997ed1de2372cbf5f3be1b5056/home/discover_collections/20Sept/video.webp"
+		},
+		{
+			"id":"2",
+			"name":"Acilio",
+			"age":"31",
+			"image":"https://as.ftcdn.net/r/v1/pics/3401cab6595c62997ed1de2372cbf5f3be1b5056/home/discover_collections/20Sept/video.webp"
+		}
+	]
+`;
+
+*/
+
+//with multidim. -for loop
+
+
+/*var food=`[
+	{ 
+	"type": "hamburger", 
+	"calories": "260" },
+
+	{ 
+	"type": "Large French Fries", 
+	"calories": "570" }
+]`*/
+
+//with 1dim. accessing possible like food.type
+var sandwiches = `{ "sandwich": "hamburger", "calories": "260" }`;
+var fries = `{ "fries_size": "Large French Fries", "calories": "570" }`;
+

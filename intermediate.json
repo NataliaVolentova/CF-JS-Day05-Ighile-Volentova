@@ -1,0 +1,25 @@
+//json sytax
+{"employee":
+	[ {"id":"123",
+		"name":"pedro",
+	}]
+
+};
+
+/*var data = `
+	[
+		{
+			"id":"1",
+			"name":"Serri",
+			"age":"30",
+			"image":"https://as.ftcdn.net/r/v1/pics/3401cab6595c62997ed1de2372cbf5f3be1b5056/home/discover_collections/20Sept/video.webp"
+		},
+		{
+			"id":"2",
+			"name":"Acilio",
+			"age":"31",
+			"image":"https://as.ftcdn.net/r/v1/pics/3401cab6595c62997ed1de2372cbf5f3be1b5056/home/discover_collections/20Sept/video.webp"
+		}
+	]
+`;
+*/
